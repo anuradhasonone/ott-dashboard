@@ -1,2 +1,2 @@
-# ott-dashboard
-Netflix-Prime-Hotstar-Dashboard-Power-BI
+# powerbi_projects
+new projects of power bi
